@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "testing",
+    "price": 1,
+    "video": "",
+    "show_price": true,
+    "stock": 1
+  }
+]
